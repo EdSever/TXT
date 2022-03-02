@@ -1,3 +1,16 @@
+Выполняемые действия:
+	1) Открыть сайт https://github.com/
+	2) Нажать на кнопку 'Sign in'
+	3) В поле ввода 'username or email address' ввезти свой username или email address
+	4) В поле 'Password' ввезти свой пароль
+	5) Нажать на кнопку 'Sign in'
+	6) В левом меню выбрать репозиторий TXT
+	7) Нажать на кнопку 'Add file'
+	8) В выпадающем меню выбрать 'Create new file'
+	9) В поле 'Name your file...' ввезти 'bug_report.txt'
+	10) В поле 'Commit new file' ввезти 'Create bug_report.txt'
+	11) Нажать на кнопку 'Commit new file'
 
+Фактический результат : В репозитории под названием TXT создался файл с названием bug_report.txt
 
-
+Ожидаемый результат : В репозитории под названием TXT создался файл с названием bug_report.txt
